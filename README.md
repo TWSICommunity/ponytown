@@ -11,9 +11,19 @@ This was a Reverse Engineered version of the Reverse Engineered version of the O
 
 ## Running the server
 
-1) Use node.js to start the server, the main File is called `app.js`
+1) Install node.js from https://nodejs.org/
 
-    $ node app.js
+2) click on (Clone or Download) then click on (download ZIP)
+
+3) extract it somewhere like your desktop
+
+4) open up command prompt
+
+5) go to the loaction where is that folder at
+
+6) do `npm install`
+
+7) do `node app.js`
 
 Table of Contents
 -----------------
