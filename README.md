@@ -25,6 +25,39 @@ This was a Reverse Engineered version of the Reverse Engineered version of the O
 
 7) do `node app.js`
 
+## Running the server on glitch
+
+1) register a account at https://glitch.com/
+
+2) make a project
+
+3) click on your projects settings
+
+4) click on `advanced options`
+
+5) click on `clone to github`
+
+if it does not have access to your repos give it access by clicking on the link what should be there
+
+6) intrest in the box `DiscordCSS/ponytown`
+
+this will create a new project
+
+## FAQ
+
+it says i need to be upgraded to version 8 or later?
+----------------------------------------------------
+
+1) click on your project settings
+
+2) click on `advanced options`
+
+3) click on `console`
+
+4) enter in the console `nvm install 7`
+
+5) then enter in `node app.js`
+
 Table of Contents
 -----------------
 
